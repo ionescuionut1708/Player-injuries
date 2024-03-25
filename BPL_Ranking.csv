@@ -1,0 +1,21 @@
+Clas_Pos,TeamName,Points,Win,Draw,Lose,Gls_Dif,InjuryNumbers,Inj_Numb_Pos,Player_Inj_Perc,Player_Inj_Perc_Pos
+1,Manchester City,86,27,5,6,51,41,14,76.0,9
+2,Manchester United,74,21,11,6,29,57,3,59.38,18
+3,Liverpool,69,20,9,9,26,55,4,93.1,2
+4,Chelsea,67,19,10,9,22,43,12,63.33,16
+5,Leicester City,66,20,6,12,18,45,10,69.23,12
+6,West Ham United,65,19,8,11,15,47,8,73.08,10
+7,Tottenham Hotspur,62,18,8,12,23,41,15,63.33,17
+8,Arsenal,61,18,7,13,16,54,5,83.33,6
+9,Leeds United,59,18,5,15,8,44,11,70.83,11
+10,Everton,59,17,8,13,-1,60,2,96.3,1
+11,Aston Villa,55,16,7,15,9,18,20,53.85,20
+12,Newcastle United,45,12,9,17,-16,64,1,92.31,3
+13,Wolverhampton Wanderers,45,12,9,17,-16,32,17,64.0,15
+14,Crystal Palace,44,12,8,18,-25,45,9,81.48,7
+15,Southampton,43,12,7,19,-21,43,13,91.3,4
+16,Brighton & Hove Albion,41,9,14,15,-6,49,7,81.48,8
+17,Burnley,39,10,9,19,-22,54,6,86.96,5
+18,Fulham,28,5,13,20,-26,26,19,53.85,19
+19,West Bromwich Albion,26,5,11,22,-41,29,18,66.67,13
+20,Sheffield United,23,7,2,29,-43,40,16,64.0,14
