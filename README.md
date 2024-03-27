@@ -55,7 +55,7 @@ pt 0 = lipsa legaturii dintre variabile
 
 Mai departe, din DataFrame-ul original, am extras coloanele necesare si am realizat 2 sortari descrescatoare, aplicate in functie de "TeamName": prima pt "InjuryNumbers", la care s-a adaugat coloana "Inj_Numb_Pos" cu pozitiile echipelor in functie de aceasta sortare, iar cea de-a doua pt "Player_Inj_Perc", pt care s-a creat o coloana noua tot pt pozitiile echipelor, numita "Player_Inj_Perc_Pos". Desigur, respectivele coloane s-au salvat in 2 variabile diferite, de tip dataframe (prima cu numarul de accidentari, cea de-a doua pt procentajul jucatorilor accidentati). Apoi, printr-un dictionar, am creat un dataframe, ce contine o parte din clasamentul Premier League pt sezonul 2020-2021. La acest dataframe, s-au adaugat datele din celelalte 2 dataframe-uri create recent, astfel creand un tabel final, pentru a vedea daca exista vreo legatura intre numarul accidentarilor, procentajul jucatorilor accidentati si pozitia finala a echipelor la finalul campionatului.
 
-Am dăugat și câteva observații privind vulnerabilitățile și potențialele probleme în codul prezentat:
+## Am dăugat și câteva observații privind vulnerabilitățile și potențialele probleme în codul prezentat:
 
 1. La citirea fișierului CSV inițial nu sunt specificate encoding-ul și separator-ul. Dacă fișierul are alt encoding (ex. UTF-8 cu BOM) sau separator (ex. ";") ar putea apărea erori.
 
